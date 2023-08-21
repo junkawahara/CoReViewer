@@ -6,6 +6,8 @@ https://www.algo.cce.i.kyoto-u.ac.jp/jkawahara/reconf/reconf-solver-gui-win.zip
 
 Mac and Linux versions, and an explanation will be uploaded soon.
 
+![Screenshot](screenshot.png)
+
 ## Summary
 
 This document describes the use of the GUI (graphical user interface) for the combinatorial reconfiguration solver, hereinafter referred to as the software.
